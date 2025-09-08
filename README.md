@@ -1,98 +1,193 @@
+Okeee gas full versi gaul semua README-nya, biar gak kaku sama sekali 😎🔥
 
-# NGL Spam Tool V1.0 - Pink Edition
-
-![Pink Edition](https://img.shields.io/badge/Edition-Pink-pink)
-![Version](https://img.shields.io/badge/Version-1.0-blue)
-![Python](https://img.shields.io/badge/Python-3.x-yellowgreen)
-
-Alat ini dibuat menggunakan **Python** dan dirancang khusus untuk mengirim pesan anonim ke pengguna NGL dengan berbagai mode spam dan opsi yang dapat disesuaikan. Dengan antarmuka yang menarik dan fitur-fitur canggih, alat ini memberikan pengalaman yang unik.
-
-## Fitur
-
-- 🎨 **Tema Pink** - Antarmuka yang menarik dengan tema pink dan ASCII art anime
-- ⚡ **Berbagai Mode Spam**:
-  - Normal Spam (1.0s delay)
-  - Fast Spam (0.5s delay)
-  - Brutal Spam (0.1s delay)
-  - Super Brutal Spam (0.01s delay)
-  - Ultra Super Brutal Spam (0.0s delay)
-  - Custom Mode (delay sesuai keinginan)
-- 😊 **Emoji Acak** - Setiap pesan akan dikirim dengan emoji acak
-- 📝 **Pencatatan Sesi** - Semua aktivitas akan dicatat ke file history.txt
-- 🔒 **Rotasi Device ID** - Untuk anonimitas yang lebih baik
-- 📊 **Progress Bar** - Menampilkan progress pengiriman pesan secara real-time
 
 ---
 
-## Preview
+🖤 NGL Spam Tool V1.0 - Pink Edition
 
-### 1. Tampilan Utama Program
-![Tampilan Utama](images/preview-1-main-screen.png)
 
-### 2. Menu Utama
-![Menu Utama](images/preview-2-main-menu.png)
 
-### 3. Pemilihan Mode Spam
-![Mode Spam](images/preview-3-spam-modes.png)
 
-### 4. Proses Pengiriman Spam
-![Proses Pengiriman](images/preview-4-progress-bar.png)
 
-### 5. Laporan Selesai
-![Laporan Selesai](images/preview-5-completion-log.png)
+Tool ini dibuat pake Python, fungsinya buat ngirim pesan anonim ke NGL dengan berbagai mode spam. Udah dibikin kece dengan tema pink + ASCII anime biar makin estetik ✨
+
 
 ---
 
-## Persyaratan Sistem
+🎯 Fitur
 
-Sebelum menjalankan script ini, pastikan sistem Anda memenuhi persyaratan berikut:
+🎨 Tema Pink - UI ala-ala pinky gemes tapi tetep sangar
 
-- **Python 3.x** - Script ini dibuat dan dijalankan menggunakan bahasa pemrograman Python.
-- Modul Python eksternal:
-  - `requests` - Untuk melakukan permintaan HTTP ke server NGL.
-  - `pystyle` - Untuk memberikan warna dan gaya pada teks di terminal.
+⚡ Mode Spam (tinggal pilih sesukanya):
 
-## Instalasi
+Normal Spam (delay 1.0s)
 
-Ikuti langkah-langkah berikut untuk menginstal dan menjalankan alat ini:
+Fast Spam (delay 0.5s)
 
-1. Pastikan Anda telah menginstal Python 3.x di komputer Anda.
-2. Clone atau download repositori ini ke komputer lokal Anda.
-3. Buka terminal atau command prompt, arahkan ke direktori proyek.
-4. Install modul Python yang diperlukan dengan perintah:
-```bash
+Brutal Spam (delay 0.1s)
+
+Super Brutal Spam (delay 0.01s)
+
+Ultra Super Brutal Spam (delay 0.0s)
+
+Custom Mode (delay custom sesuai mood)
+
+
+😊 Random Emoji tiap pesan auto nambah variasi
+
+📝 History Log semua aktivitas nyimpen ke history.txt
+
+🔒 Rotasi Device ID biar makin misterius
+
+📊 Progress Bar biar keliatan progress spam-nya
+
+
+
+---
+
+👀 Preview
+
+1. Tampilan Utama
+
+
+
+2. Menu Utama
+
+
+
+3. Pilih Mode Spam
+
+
+
+4. Proses Spam
+
+
+
+5. Laporan Beres
+
+
+
+
+---
+
+💻 Persyaratan
+
+Sebelum mainin tool ini, siapin dulu:
+
+Python 3.x
+
+Modul Python:
+
+requests (buat request HTTP)
+
+pystyle (biar terminalnya warna-warni kece)
+
+
+
+---
+
+⚙️ Instalasi
+
+1. Pastikan Python 3.x udah ke-install
+
+
+2. Clone / download repo ini
+
+
+3. Masuk ke folder project via terminal/cmd
+
+
+4. Install modul:
+
 pip install requests pystyle
-```
-5. Setelah instalasi selesai, jalankan script Python dengan perintah:
-```bash
+
+
+5. Jalanin tool:
+
 python ngl_spam_tool.py
-```
 
-## Cara Penggunaan
 
-1. Jalankan script dan masukkan username Anda saat diminta.
-2. Anda akan melihat menu utama dengan pilihan berikut:
-   - **Start Spam** - Untuk memulai sesi pengiriman pesan spam.
-   - **View Information** - Untuk melihat informasi detail mengenai alat ini.
-   - **Exit** - Untuk keluar dari program.
 
-3. Jika Anda memilih "Start Spam":
-   - Pilih mode spam yang diinginkan dari daftar yang tersedia.
-   - Masukkan username target NGL.
-   - Ketikkan pesan yang ingin Anda kirimkan.
-   - Tentukan jumlah pesan yang akan dikirim.
-   - Konfirmasi pilihan Anda untuk memulai pengiriman pesan.
+---
 
-## File yang Dihasilkan
+🎮 Cara Pakai
 
-- `history.txt` - File log yang secara otomatis dibuat untuk mencatat semua sesi spam yang telah Anda lakukan, termasuk waktu, target, pesan, dan status pengiriman.
+1. Run script → masukin username
 
-## Peringatan
 
-Alat ini dibuat untuk tujuan pembelajaran dan edukasi mengenai otomatisasi permintaan web. Gunakan dengan tanggung jawab penuh dan jangan menyalahgunakan untuk tujuan yang dapat merugikan atau mengganggu orang lain. Pengguna bertanggung jawab penuh atas segala tindakan yang dilakukan menggunakan alat ini.
+2. Muncul menu utama:
 
-**Disclaimer**: Spam pacarmu jika dia tidak membalas chatmu! 😉
+Start Spam → mulai spam
 
-## terkahir
+View Info → liat detail tool
 
-### LU KAMPRET
+Exit → cabut
+
+
+
+3. Kalau pilih Start Spam:
+
+Tentuin mode spam
+
+Masukin username target
+
+Tulis pesan yang mau dikirim
+
+Atur jumlah pesan
+
+Konfirmasi → gaspol spam
+
+
+---
+
+📂 Output File
+
+history.txt → nyimpen semua log spam (target, pesan, status, waktu)
+
+
+---
+
+⚠️ Warning Dulu Nih
+
+Tool ini tujuannya buat belajar doang + hiburan receh.
+Jangan kebablasan sampe ngerugiin orang lain.
+Kalau dipake aneh-aneh, itu tanggung jawab lu sendiri bro 😎
+
+
+---
+
+🐒 Penutup
+
+Udah, gitu doang sih. Tool receh, pinky, tapi fungsional.
+Jangan dibawa serius, cukup dinikmati aja.
+
+Quote receh: Spam pacarlu biar dia inget kalo elu masih ada 🗿💔
+
+
+---
+
+⠀⢿⣯⣶⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⣰⣿⡿⠋⠛⢿⣿⣿⣿⣿⣿⣿⣦⠀⠀⠀⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⢸⣿⠿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢏⣼⣿⡿⠁⠀⠀⠀⠉⠙⠛⠻⠿⣿⣿⡇⠀⠀⣠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢣⣾⣿⠟⠀⠀⠀⠀⣠⣤⠀⠀⠀⠀⠀⠈⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⡿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣿⣿⠋⠀⠀⠀⠀⠀⠈⠛⠿⢶⣤⡀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠀
+⠀⠀⣿⣿⣿⣿⣿⣿⠏⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣡⠤⠴⠒⣚⠛⠻⣛⠒⠲⣄⡙⠻⠀⠀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⣃⠤⠄
+⠀⠀⣿⣿⣿⣿⣿⣣⣾⣿⣿⣿⡿⣳⣿⣿⣿⣿⣿⣯⡀⠀⠀⢸⡇⠰⡦⢸⡇⠀⠈⢯⡀⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠋⡾⠋⠀⠀
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣵⣿⣿⣿⣿⠏⠙⠿⠻⠷⢦⣤⣵⣤⣤⣼⣤⠶⠶⠚⢳⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠁⠞⠷⠶⣤⣤
+⠀⠀⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠁⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠀⠀⠀⠀⣰⣿⣿⡿⣿⣿⣿⣿⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⠋⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀
+⠀⠀⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⣿⣽⣦⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣾⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣼
+⠀⠀⣿⣿⣯⣿⣿⣿⣿⣿⡟⢻⠁⠌⠁⢿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣴⣿⣿⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⣿
+⠀⠀⣿⣿⣿⢻⣿⣿⣿⡏⢃⠈⢆⡘⢦⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣷⠈⠢⡀⠉⣿⣿⡇⠀⠀⠀⠀⠀⠀⣠⣾⣿⣿⣿⣿⡿⠋⠀⠀⠀⣀⣴⣶⡒⢲⣦⡤⣄⠀⠀⠀⠀⠀⣸⣿⣿
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠈⠀⠀⠉⡇⠀⠀⠀⢀⣠⣾⣿⣿⣿⣿⠟⠁⠀⠀⠀⠀⠀⢻⠈⠉⣿⣺⣿⡿⣯⡇⠀⠀⠀⢰⣿⣿⠏
+⠀⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡄⠀⠀⠀⠀⢣⣀⣴⣾⣿⣿⣿⣿⡿⠋⠀⠀⠀⠀⠀⠀⠀⠀⠀⢣⡀⢻⡋⠉⣹⠋⠀⠀⠀⢠⣿⣿⠏⠀
+⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣤⣠⣶⣿⣿⣿⣿⣿⡿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢤⠷⠞⠁⠀⠀⠀⢀⣿⣿⠏⠀⠀
+⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⠶⠦⠤⠤⠤⠤⠤⠤⠤⣄⣀⣾⡿⠃⠀⠀⠀
+⡀⠻⣿⣿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⣯⣠⣶⡤⠤⣤⣤⣤⣤⣤⣤⣤⣾⡿⣅⠀⠀⠀⣰
+⣿⣷⣾⣿⢿⣿⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⠻⠿⣉⣛⣛⣛⡛⠛⠛⠛⢻⣿⣿⡿⠿⠇⠀⣰⣿
+⡿⠟⣿⣿⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡀⠀⠀⠀⠀⠀⠀⠀⣰⡿⠋⠀⠀⠀⠀⣰⣿⣿
+⠀⣸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⣦⡀⠀⠀⠀⠀⠀⠀⠀⠘⠿⣓⡶⠤⣤⠤⢤⣾⡿⢒⡿⠛⠀⢠⣾⣿⣿⣿
+⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡌⢻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠑⢿⣴⣿⠟⠚⠁⠀⠀⣰⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⢷⡛⢦⡄⠀⠀⠀⠀⠀⠀⠀⣠⣿⡿⠁⠀⠀⠀⢀⣼⣿⣿⣿⣿⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⣿⠟⣱⣿⣿⣿⣿⣿⣿⠀⠈⣧⠀⠉⢲⣄⠀⠀⢀⣤⣾⣿⠋⠀⠀⠀⠀⢀⣾⣿⣿⣿⡟⣹⣿⣿
+⣿⣿⣿⣿⣿⣿⣿⣻⣿⣿⣿⣿⣿⠟⠁⣠⣿⣿⣿⣿⣿⡟⢹⡇⠠⠸⢧⢀⠀⠈⣹⣶⣿⣿⠟⠁⠀⠀⠀⠀⢠⣿⣿⣿⣿⡟⢩⣿⣿⣿
