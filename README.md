@@ -60,7 +60,7 @@ Custom Mode (delay custom sesuai mood)
 ![Laporan Beres](assets/preview5%20[F3ADE02].png)  
 
 ### 6. Hasil NGL  
-![Hasil NGL](assets/preview6%20[118585F].png)
+![Hasil NGL](assets/preview6-118585F.png)
 ---
 
 💻 Persyaratan
