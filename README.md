@@ -45,27 +45,25 @@ Custom Mode (delay custom sesuai mood)
 
 ---
 
-👀 Preview
+👀 Preview  
 
-1. Tampilan Utama
+### 1. Tampilan Utama  
+![Tampilan Utama](assets/preview-1.jpg)  
 
+### 2. Menu Utama  
+![Menu Utama](assets/preview-2.jpg)  
 
+### 3. Pilih Mode Spam  
+![Mode Spam](assets/preview-3.jpg)  
 
-2. Menu Utama
+### 4. Proses Spam  
+![Proses Spam](assets/preview-4.jpg)  
 
+### 5. Laporan Beres  
+![Laporan Beres](assets/preview-5-completion-log.png)  
 
-
-3. Pilih Mode Spam
-
-
-
-4. Proses Spam
-
-
-
-5. Laporan Beres
-
-
+### 6. Hasil NGL  
+![Hasil NGL](assets/preview-6-result.png)
 
 
 ---
