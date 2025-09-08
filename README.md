@@ -93,11 +93,6 @@ Alat ini dibuat untuk tujuan pembelajaran dan edukasi mengenai otomatisasi permi
 
 **Disclaimer**: Spam pacarmu jika dia tidak membalas chatmu! 😉
 
-## Pembuat
+## terkahir
 
-Dibuat oleh NANAW menggunakan Python.
-
-## Lisensi
-
-Proyek ini tidak memiliki lisensi khusus. Gunakan dengan bijak dan tanggung jawab.
-```
+### LU KAMPRET
