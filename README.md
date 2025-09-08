@@ -1,4 +1,4 @@
-## NGL-SPAM 🤓
+# NGL-SPAM 🤓
 
 ---
 
