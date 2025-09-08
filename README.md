@@ -14,7 +14,7 @@ Tool ini dibuat pake Python, fungsinya buat ngirim pesan anonim ke NGL dengan be
 
 🎯 Fitur
 
-🎨 Tema Pink - UI ala-ala pinky gemes tapi tetep sangar
+🎨 Tema Pink - UI lucuu
 
 ⚡ Mode Spam (tinggal pilih sesukanya):
 
@@ -43,27 +43,25 @@ Custom Mode (delay custom sesuai mood)
 
 ---
 
-👀 Preview  
+## 👀 Preview  
 
 ### 1. Tampilan Utama  
-![Tampilan Utama](assets/preview-1.jpg)  
+![Tampilan Utama](assets/preview1 [A8A12DB].png)  
 
 ### 2. Menu Utama  
-![Menu Utama](assets/preview-2.jpg)  
+![Menu Utama](assets/preview2 [CDA23D4].png)  
 
 ### 3. Pilih Mode Spam  
-![Mode Spam](assets/preview-3.jpg)  
+![Mode Spam](assets/preview3 [63518AF].png)  
 
 ### 4. Proses Spam  
-![Proses Spam](assets/preview-4.jpg)  
+![Proses Spam](assets/preview4 [8040702].png)  
 
 ### 5. Laporan Beres  
-![Laporan Beres](assets/preview-5.jpg)  
+![Laporan Beres](assets/preview5 [F3ADE02].png)  
 
 ### 6. Hasil NGL  
-![Hasil NGL](assets/preview-6.jpg)
-
-
+![Hasil NGL](assets/preview6 [118585F].png)
 ---
 
 💻 Persyaratan
