@@ -1,5 +1,4 @@
 
-```markdown
 # NGL Spam Tool V1.0 - Pink Edition
 
 ![Pink Edition](https://img.shields.io/badge/Edition-Pink-pink)
