@@ -1,7 +1,8 @@
+## NGL-SPAM 🤓
 
 ---
 
-NGL Spam Tool V1.0 - Pink Edition
+## NGL Spam Tool V1.0 
 
 
 
@@ -89,8 +90,8 @@ https://www.python.org/downloads/
 
 
 
-git clone https://github.com/kenairforces/NGL-SPAMMER.git
-cd NGL-SPAMMER
+git clone https://github.com/Nanaaaw999/Ngl-Spam-Tools
+cd start.py
 
 3. Install dependencies (Windows)
 
@@ -108,7 +109,7 @@ python start.py
 
 
 
-python start.py --cli --user USERNAME --msg "halo,kirim lagi,test" --dur 60 --threads 5
+python start.py
 
 
 ---
@@ -129,8 +130,8 @@ sudo apt install python3 python3-pip git -y
 
 2. Clone repo dan masuk folder
 
-git clone https://github.com/kenairforces/NGL-SPAMMER.git
-cd NGL-SPAMMER
+git clone https://github.com/Nanaaaw999/Ngl-Spam-Tools
+cd start.py
 
 3. Install dependencies
 
@@ -144,8 +145,7 @@ pip3 install -r requirementstx.txt
 
 4. Jalankan CLI
 
-python start.py --cli --user USERNAME --msg "halo,test,apa kabar" --dur 60 --threads 5
-
+python start.py 
 
 ---
 
