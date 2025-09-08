@@ -79,26 +79,72 @@ pystyle (biar terminalnya warna-warni kece)
 
 ---
 
-⚙️ Instalasi
+🪟 Windows (GUI + CLI)
 
-1. Pastikan Python 3.x udah ke-install
-
-
-2. Clone / download repo ini
+1. Install Python (3.10–3.11 disarankan)
+https://www.python.org/downloads/
 
 
-3. Masuk ke folder project via terminal/cmd
+2. Clone repo dan masuk folder
 
 
-4. Install modul:
 
-pip install requests pystyle
+git clone https://github.com/kenairforces/NGL-SPAMMER.git
+cd NGL-SPAMMER
+
+3. Install dependencies (Windows)
 
 
-5. Jalanin tool:
 
-python ngl_spam_tool.py
+pip install -r requirementswin.txt
 
+4. Jalankan GUI
+
+
+
+python start.py
+
+5. Jalankan CLI
+
+
+
+python start.py --cli --user USERNAME --msg "halo,kirim lagi,test" --dur 60 --threads 5
+
+
+---
+
+🐧 Linux / 📱 Termux (CLI ONLY)
+
+1. Install Python & Git
+
+Termux:
+
+pkg update && pkg upgrade -y
+pkg install python git -y
+
+Linux (Debian/Ubuntu):
+
+sudo apt update && sudo apt upgrade -y
+sudo apt install python3 python3-pip git -y
+
+2. Clone repo dan masuk folder
+
+git clone https://github.com/kenairforces/NGL-SPAMMER.git
+cd NGL-SPAMMER
+
+3. Install dependencies
+
+Termux:
+
+pip install -r requirementstx.txt
+
+Linux:
+
+pip3 install -r requirementstx.txt
+
+4. Jalankan CLI
+
+python start.py --cli --user USERNAME --msg "halo,test,apa kabar" --dur 60 --threads 5
 
 
 ---
