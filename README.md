@@ -7,6 +7,23 @@
 
 Alat ini dirancang untuk mengirim pesan anonim ke pengguna NGL dengan berbagai mode spam dan opsi yang dapat disesuaikan.
 
+## Preview
+
+### 1. Tampilan Utama Program
+![Tampilan Utama](images/preview-1-main-screen.png)
+
+### 2. Menu Utama
+![Menu Utama](images/preview-2-main-menu.png)
+
+### 3. Pemilihan Mode Spam
+![Mode Spam](images/preview-3-spam-modes.png)
+
+### 4. Proses Pengiriman Spam
+![Proses Pengiriman](images/preview-4-progress-bar.png)
+
+### 5. Laporan Selesai
+![Laporan Selesai](images/preview-5-completion-log.png)
+
 ## Fitur
 
 - 🎨 **Tema Pink** - Antarmuka yang menarik dengan tema pink dan ASCII art anime
