@@ -5,24 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-1.0-blue)
 ![Python](https://img.shields.io/badge/Python-3.x-yellowgreen)
 
-Alat ini dirancang untuk mengirim pesan anonim ke pengguna NGL dengan berbagai mode spam dan opsi yang dapat disesuaikan.
-
-## Preview
-
-### 1. Tampilan Utama Program
-![Tampilan Utama](images/preview-1-main-screen.png)
-
-### 2. Menu Utama
-![Menu Utama](images/preview-2-main-menu.png)
-
-### 3. Pemilihan Mode Spam
-![Mode Spam](images/preview-3-spam-modes.png)
-
-### 4. Proses Pengiriman Spam
-![Proses Pengiriman](images/preview-4-progress-bar.png)
-
-### 5. Laporan Selesai
-![Laporan Selesai](images/preview-5-completion-log.png)
+Alat ini dibuat menggunakan **Python** dan dirancang khusus untuk mengirim pesan anonim ke pengguna NGL dengan berbagai mode spam dan opsi yang dapat disesuaikan. Dengan antarmuka yang menarik dan fitur-fitur canggih, alat ini memberikan pengalaman yang unik.
 
 ## Fitur
 
@@ -39,55 +22,61 @@ Alat ini dirancang untuk mengirim pesan anonim ke pengguna NGL dengan berbagai m
 - 🔒 **Rotasi Device ID** - Untuk anonimitas yang lebih baik
 - 📊 **Progress Bar** - Menampilkan progress pengiriman pesan secara real-time
 
-## Persyaratan
+## Persyaratan Sistem
 
-- Python 3.x
-- Modul Python:
-  - `requests`
-  - `pystyle`
+Sebelum menjalankan script ini, pastikan sistem Anda memenuhi persyaratan berikut:
+
+- **Python 3.x** - Script ini dibuat dan dijalankan menggunakan bahasa pemrograman Python.
+- Modul Python eksternal:
+  - `requests` - Untuk melakukan permintaan HTTP ke server NGL.
+  - `pystyle` - Untuk memberikan warna dan gaya pada teks di terminal.
 
 ## Instalasi
 
-1. Clone atau download repositori ini
-2. Install modul yang diperlukan:
+Ikuti langkah-langkah berikut untuk menginstal dan menjalankan alat ini:
+
+1. Pastikan Anda telah menginstal Python 3.x di komputer Anda.
+2. Clone atau download repositori ini ke komputer lokal Anda.
+3. Buka terminal atau command prompt, arahkan ke direktori proyek.
+4. Install modul Python yang diperlukan dengan perintah:
 ```bash
 pip install requests pystyle
 ```
-3. Jalankan script:
+5. Setelah instalasi selesai, jalankan script Python dengan perintah:
 ```bash
 python ngl_spam_tool.py
 ```
 
 ## Cara Penggunaan
 
-1. Jalankan script dan masukkan username Anda
-2. Pilih opsi dari menu utama:
-   - **Start Spam** - Mulai mengirim pesan spam
-   - **View Information** - Lihat informasi tentang alat ini
-   - **Exit** - Keluar dari program
+1. Jalankan script dan masukkan username Anda saat diminta.
+2. Anda akan melihat menu utama dengan pilihan berikut:
+   - **Start Spam** - Untuk memulai sesi pengiriman pesan spam.
+   - **View Information** - Untuk melihat informasi detail mengenai alat ini.
+   - **Exit** - Untuk keluar dari program.
 
-3. Jika memilih "Start Spam":
-   - Pilih mode spam yang diinginkan
-   - Masukkan username target
-   - Masukkan pesan yang ingin dikirim
-   - Masukkan jumlah pesan yang ingin dikirim
-   - Konfirmasi untuk memulai pengiriman
+3. Jika Anda memilih "Start Spam":
+   - Pilih mode spam yang diinginkan dari daftar yang tersedia.
+   - Masukkan username target NGL.
+   - Ketikkan pesan yang ingin Anda kirimkan.
+   - Tentukan jumlah pesan yang akan dikirim.
+   - Konfirmasi pilihan Anda untuk memulai pengiriman pesan.
 
 ## File yang Dihasilkan
 
-- `history.txt` - File log yang berisi semua sesi spam yang telah dilakukan
+- `history.txt` - File log yang secara otomatis dibuat untuk mencatat semua sesi spam yang telah Anda lakukan, termasuk waktu, target, pesan, dan status pengiriman.
 
 ## Peringatan
 
-Alat ini hanya untuk tujuan pendidikan. Gunakan dengan tanggung jawab dan jangan menyalahgunakan untuk tujuan yang merugikan orang lain.
+Alat ini dibuat untuk tujuan pembelajaran dan edukasi mengenai otomatisasi permintaan web. Gunakan dengan tanggung jawab penuh dan jangan menyalahgunakan untuk tujuan yang dapat merugikan atau mengganggu orang lain. Pengguna bertanggung jawab penuh atas segala tindakan yang dilakukan menggunakan alat ini.
 
 **Disclaimer**: Spam pacarmu jika dia tidak membalas chatmu! 😉
 
 ## Pembuat
 
-Dibuat oleh NANAW
+Dibuat oleh NANAW menggunakan Python.
 
 ## Lisensi
 
-Proyek ini tidak memiliki lisensi khusus. Gunakan dengan bijak.
+Proyek ini tidak memiliki lisensi khusus. Gunakan dengan bijak dan tanggung jawab.
 ```
