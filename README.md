@@ -42,26 +42,25 @@ Custom Mode (delay custom sesuai mood)
 
 
 ---
-
 ## 👀 Preview  
 
 ### 1. Tampilan Utama  
-![Tampilan Utama](assets/preview1 [A8A12DB].png)  
+![Tampilan Utama](assets/preview1%20[A8A12DB].png)  
 
 ### 2. Menu Utama  
-![Menu Utama](assets/preview2 [CDA23D4].png)  
+![Menu Utama](assets/preview2%20[CDA23D4].png)  
 
 ### 3. Pilih Mode Spam  
-![Mode Spam](assets/preview3 [63518AF].png)  
+![Mode Spam](assets/preview3%20[63518AF].png)  
 
 ### 4. Proses Spam  
-![Proses Spam](assets/preview4 [8040702].png)  
+![Proses Spam](assets/preview4%20[8040702].png)  
 
 ### 5. Laporan Beres  
-![Laporan Beres](assets/preview5 [F3ADE02].png)  
+![Laporan Beres](assets/preview5%20[F3ADE02].png)  
 
 ### 6. Hasil NGL  
-![Hasil NGL](assets/preview6 [118585F].png)
+![Hasil NGL](assets/preview6%20[118585F].png)
 ---
 
 💻 Persyaratan
