@@ -1,9 +1,7 @@
-Okeee gas full versi gaul semua README-nya, biar gak kaku sama sekali 😎🔥
-
 
 ---
 
-🖤 NGL Spam Tool V1.0 - Pink Edition
+NGL Spam Tool V1.0 - Pink Edition
 
 
 
@@ -60,10 +58,10 @@ Custom Mode (delay custom sesuai mood)
 ![Proses Spam](assets/preview-4.jpg)  
 
 ### 5. Laporan Beres  
-![Laporan Beres](assets/preview-5-completion-log.png)  
+![Laporan Beres](assets/preview-5.jpg)  
 
 ### 6. Hasil NGL  
-![Hasil NGL](assets/preview-6-result.png)
+![Hasil NGL](assets/preview-6.jpg)
 
 
 ---
