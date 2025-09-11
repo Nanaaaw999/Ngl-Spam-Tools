@@ -439,4 +439,3 @@ if __name__ == "__main__":
     except KeyboardInterrupt:
         print("\n" + R + "[!] Program interrupted by user" + W)
         sys.exit(0)
-encripsi kode ini
